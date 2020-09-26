@@ -1,4 +1,5 @@
-# auto-amazon
+# auto-amazon-pricing
+
 
 
 A cool fun application that tracks for prices of selected products on Amazon and sends the user a mail when the price of the product falls below the price specified by the user.
